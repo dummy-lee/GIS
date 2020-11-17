@@ -31,21 +31,21 @@
 ## 3.QGIS获取城市路网数据
 1. 打开QGIS，下载插件QuickMapServices，下载完成后点击QuickMapServices=>OSM=>OSM Standard
 
-<img src="./1.png" alt="截屏2020-11-02 上午10.15.27" style="zoom:50%;" />
+<img src="1.png" style="zoom:50%;" />
 
 2. 添加重庆市的行政区图
 
    1. 点击图层=》添加图层=〉添加矢量图层，打开重庆行政区的shp文件
 
-   ![](./2.png)
+   ![](2.png)
 
 3. 添加由osm下载的路网矢量文件
 
-![](./3.png)
+![](3.png)
 
 2. 在右侧工具栏搜索裁剪，对路网进行裁剪
 
-![](./4.png)
+![](4.png)
 
 3. 对裁剪后的文件进行坐标转换
    1. ß下载插件GeoHey Toolbox
